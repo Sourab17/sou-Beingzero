@@ -1,0 +1,19 @@
+{
+  "name": "sou-beingzero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sourab17/sou-Beingzero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sourab17/sou-Beingzero/issues"
+  },
+  "homepage": "https://github.com/Sourab17/sou-Beingzero#readme"
+}
