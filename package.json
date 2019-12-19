@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sourab17/sou-Beingzero/issues"
   },
-  "homepage": "https://github.com/Sourab17/sou-Beingzero#readme"
+  "homepage": "https://github.com/Sourab17/sou-Beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
